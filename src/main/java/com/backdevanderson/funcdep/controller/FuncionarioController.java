@@ -1,7 +1,7 @@
 package com.backdevanderson.funcdep.controller;
 
 
-import com.backdevanderson.funcdep.entities.Departamento;
+
 import com.backdevanderson.funcdep.entities.Funcionario;
 import com.backdevanderson.funcdep.service.FuncionarioService;
 import org.springframework.beans.factory.annotation.Autowired;
